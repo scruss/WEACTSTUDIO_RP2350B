@@ -1,0 +1,20 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [
+        "Dual-core",
+        "External Flash",
+        "External RAM",
+        "LED",
+        "USB-C"
+    ],
+    "images": [
+    ],
+    "mcu": "rp2350",
+    "product": "RP2350B Core Board",
+    "thumbnail": "",
+    "url": "https://www.aliexpress.com/item/1005008404804398.html",
+    "vendor": "WeAct Studio"
+}
