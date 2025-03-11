@@ -1,0 +1,1 @@
+doesn't work, but see [ports/rp2/boards: Add WeAct Studio RP2350B Core board. by mattytrentini · Pull Request #16892 · micropython/micropython](https://github.com/micropython/micropython/pull/16892) for something that does
